@@ -21,5 +21,5 @@ Aplicação de lista de tarefas com React, utilizando **Hooks**, **Context API**
 ## ▶️ Como rodar localmente
 
 1. Clone o repositório:
-   ```bash
  https://github.com/CintiaLima-83/todo-react-avancado.git
+
